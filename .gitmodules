@@ -3,4 +3,4 @@
 	url = git@github.com:anonymous-140325/BlowLive.git
 [submodule "LivenessDetection"]
 	path = LivenessDetection
-	url = git@github-anon:anonymous-140325/LivenessDetection.git
+	url = git@github.com:anonymous-140325/LivenessDetection.git
